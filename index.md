@@ -16,5 +16,5 @@ Private repository (contact us for access)
 
 Documentation
 ======
-[Documentation](https://docs.google.com/document/d/1rrx_Di7s5dnXLP1Q5nFrYvSa4imJ_MMHpFonT4Z4bbQ/edit?usp=sharing
+[Documentation](https://docs.google.com/document/d/1rrx_Di7s5dnXLP1Q5nFrYvSa4imJ_MMHpFonT4Z4bbQ/edit?usp=sharing)
 
